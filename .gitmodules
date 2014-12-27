@@ -114,4 +114,4 @@
         url = https://github.com/magnars/datomic-snippets.git
 [submodule "site-lisp/squiggly-clojure"]
 	path = site-lisp/squiggly-clojure
-	url = git@github.com:pnf/squiggly-clojure.git
+	url = git@github.com:clojure-emacs/squiggly-clojure.git
