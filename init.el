@@ -68,6 +68,7 @@
      flycheck-pos-tip
      flx
      flx-ido
+     dired-details
      css-eldoc
      yasnippet
      smartparens
@@ -82,6 +83,7 @@
      elisp-slime-nav
      git-commit-mode
      gitconfig-mode
+     dockerfile-mode
      gitignore-mode
      clojure-mode
      groovy-mode
